@@ -1,0 +1,1 @@
+rootProject.name = "familywallet-backend"
